@@ -1,5 +1,5 @@
 # 6-qui-prend - Félix LIBURSKI & Hugo Pereira (janvier - mars 2022)
-<div align="justify">Voici mon second projet de programmation mais mon premier en C++. C'est aussi le premier projet de programmation réalisé en groupe qui m'a permis d'apprendre à développer en équipe donc en se répartissant les différentes tâches. Ce projet était d'une certaine compléxitée au niveau de l'algorithmie mais était aussi l'occasion de corriger les erreurs du projet précédent en séparant cette fois-ci le code en plusieurs fonctions sur plusieurs fichiers. Nous sommes très satisfaits du résultat puisque nous avons réussi à passer tous les tests.</div>
+<div align="justify">Voici mon troisième projet de programmation mais mon premier en Java. La développement orienté objet est très différent de de l'approche en C ou C++ mais 'adaptation à ce langage n'a pas été difficile. Nous sommes très satisfait de notre projet puisqu'il a passé tous les tests et que nous avons un jeu auquel nous pouvons jouer.</div>
 
 ## <center>Table of Contents </center>
 
